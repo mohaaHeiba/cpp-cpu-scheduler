@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1733658804 source:c:\users\mohamed\desktop\imsad\main.cpp
+	<iostream>
+	"process.h"
+	"Scheduler.h"
+	<iomanip>
+	<limits>
+	<exception>
+
+1733658073 c:\users\mohamed\desktop\imsad\process.h
+	<iostream>
+
+1733659393 c:\users\mohamed\desktop\imsad\scheduler.h
+	<iostream>
+	"process.h"
+	<string>
+
+1733658804 source:d:\codes\c++\process scheduling algorithms\main.cpp
+	<iostream>
+	"process.h"
+	"Scheduler.h"
+	<iomanip>
+	<limits>
+	<exception>
+
+1733658073 d:\codes\c++\process scheduling algorithms\process.h
+	<iostream>
+
+1733659393 d:\codes\c++\process scheduling algorithms\scheduler.h
+	<iostream>
+	"process.h"
+	<string>
+
